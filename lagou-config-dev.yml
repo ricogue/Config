@@ -1,3 +1,4 @@
-test: Hello from Config Server!
+test:
+  message: Hello from Config Server!
 mysql: 
   url: jdbc:mysql://localhost:3306/lagou_job?useUnicode=true&characterEncoding=utf8
