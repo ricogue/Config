@@ -1,0 +1,3 @@
+test: 112334
+mysql: 
+  url: jdbc:mysql://localhost:3306/lagou_job?useUnicode=true&characterEncoding=utf8
